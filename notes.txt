@@ -1,0 +1,6 @@
+using colorhunt web to get cool colour palette
+also be careful with the file
+after method
+dynamic typing of python, it holds the data type of var , if i assign a = 3, its int and u cant add str into it
+but if now i assign it again a = "hello", now its data type is changed to str
+python doesnt mind much
